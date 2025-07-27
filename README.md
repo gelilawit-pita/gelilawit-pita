@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gelilawit-pita
+- 👋 Hi, I’m Gelilawit Tewodros
 - 👀 I’m interested in Coding and also Music
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on any Cyber Security Company 
