@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Gelilawit Tewodros
-- 👀 I’m interested in Coding and also Music
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on any Cyber Security Company 
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking forward to study CS or SE as i finish highschool
 - 📫 How to reach me 
-Ig-@gelilawit_t
+Ig-@g_elilawit
 Tg-@G_elilawit
 - 😄 Pronouns: Lila,Li
 - ⚡ Fun fact:I live in Ethiopia!
